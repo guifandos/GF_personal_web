@@ -1,8 +1,8 @@
 ---
-title: "Finley Malloc"
+title: "Guillermo Fandos"
 about:
   template: trestles
-  image: avatar.jpg
+  image: perfil_GF.jpg
   links:
     - icon: envelope
       # text: email
@@ -21,12 +21,7 @@ about:
       href: https://scholar.google.com
     - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
       href: https://orcid.org/
-    # - icon: twitter
-    #   text: twitter
-    #   href: https://twitter.com
-    # - icon: github
-    #   text: Github
-    #   href: https://github.com
+  
 ---
 
 Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
