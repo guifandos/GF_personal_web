@@ -5,9 +5,9 @@ project:
 
 website:
   title: "Guillermo Fandos"
-  description: "I am a scientist"
+  description: "I am a ecologist"
   site-url: https://pakillo.github.io/academic-website-template-Quarto
-  repo-url: https://github.com/Pakillo/academic-website-template-Quarto
+  repo-url: https://github.com/guifandos/GF_personal_web
   # favicon: logo.png
   twitter-card: true
   #   creator: "@handle"
